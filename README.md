@@ -1,4 +1,4 @@
-# MYWED scrapper
+# MYWED photographers
 
 ## Select your location and copy URL
 
